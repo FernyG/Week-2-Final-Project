@@ -192,3 +192,39 @@ Brands
     align-items: center;
     padding: 25px 16px;
 }
+
+/*
+
+News
+
+*/
+
+ .section__content {
+    display: flex;
+    margin: 12px 0;
+    align-items: center;
+ }
+
+.section__description {
+    padding-bottom: 36px;
+}
+
+ .section__content--description {
+    width: 50%;
+ }
+
+ .section__title {
+    text-align: left;
+    margin: 18px 0;
+ }
+
+ .section__figure {
+    width: 50%;
+    display: flex;
+    border: 0.5px solid var(#909090);
+    border-radius: 15px;
+    overflow: hidden;
+    margin: 12px 18px;
+ }
+
+ 
